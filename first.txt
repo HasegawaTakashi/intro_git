@@ -2,3 +2,4 @@ practice git
 learn basic workflow
 .git add
 .git commit
+.git rm
